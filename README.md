@@ -1,6 +1,6 @@
 ### ___ODIN_PROJECT___ ###
 
- # My first project HTML #
+ # My first HTML project #
 
 What is Odin Project : 
     Odin Project is an open-source coding curriculum to learn coding.
